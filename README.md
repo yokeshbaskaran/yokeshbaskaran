@@ -2,8 +2,8 @@
 
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<!-- I’m [**YOKESH**](https://yokesh-b-portfolio.vercel.app), a Software Developer based in India. -->
-I’m [**<a href="https://yokesh-b-portfolio.vercel.app" target="_blank">YOKESH</a>**], a Software Developer based in India.
+I’m [**YOKESH**](https://yokesh-b-portfolio.vercel.app), a Software Developer based in India. 
+I’m <a href="https://yokesh-b-portfolio.vercel.app" target="_blank">**YOKESH**]</a>, a Software Developer based in India.
 
 
 I design and build projects, whatever I can imagine.
