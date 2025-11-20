@@ -2,13 +2,13 @@
 
 I’m **[YOKESH](https://yokesh-b-portfolio.vercel.app)**, a Software Developer based in India.
 
-[![Visit Site](https://img.shields.io/badge/Visit-Website-blue)](https://yokesh-b-portfolio.vercel.app)
+<!-- [![Visit Site](https://img.shields.io/badge/Visit-Website-blue)](https://yokesh-b-portfolio.vercel.app) -->
 
 I am a self-taught Web Developer. I started learning frontend development in 2023, and later taught myself backend development using the MERN stack. I’m currently looking for opportunities in Web Development (or) Cloud-related roles.
 
 I enjoy designing and building projects—anything I can imagine.
 
-I believe in discipline, consistency, continuous learning, and building something every single day.
+I believe in Discipline 🎯, Consistency ⏳, Continuous Learning 📚, and Building 🪴 something every single day.
 
 **My main tech stack:** React, JavaScript, TypeScript, MERN, Tailwind CSS, AWS (foundational knowledge)
 
@@ -23,4 +23,7 @@ Some of my favorite projects are **[Moments](https://github.com/yokeshbaskaran/m
 - _Demon Slayer_ is my favorite anime
 - **Hobbies:** Anime, movies, and exploring new places
 
-If I can do it, so can you.
+<!-- Quotes!!! -->
+<!-- If I can do it, so can you. -->
+
+-> Trust the Process.
