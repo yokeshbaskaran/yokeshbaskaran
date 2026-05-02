@@ -16,7 +16,7 @@ I believe in Discipline 🎯, Consistency ⏳, Continuous Learning 📚, and Bui
 
 My favorite tools are **VS Code**, **GitHub**, and **Vite**.
 
-Some of my favorite projects are **[Moments](https://github.com/yokeshbaskaran/moments)** and **[Tweets](https://github.com/yokeshbaskaran/tweets)**.
+Some of my favorite projects are **[ChatAI](https://github.com/yokeshbaskaran/chatai)** , **[Tweets](https://github.com/yokeshbaskaran/tweets)** and **[Moments](https://github.com/yokeshbaskaran/moments)**.
 
 ### Fun Facts
 
