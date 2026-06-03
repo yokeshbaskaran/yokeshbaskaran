@@ -4,7 +4,7 @@ I’m **[YOKESH](https://yokesh-b-portfolio.vercel.app)**, a Software Developer 
 
 <!-- [![Visit Site](https://img.shields.io/badge/Visit-Website-blue)](https://yokesh-b-portfolio.vercel.app) -->
 
-I am a self-taught Web Developer. I started learning frontend development in 2023, and later taught myself backend development using the MERN stack. I’m currently looking for opportunities in Web Development (or) Cloud-related roles.
+I am a self-taught Web Developer. I started learning frontend development in 2023 and later taught myself backend development using the MERN stack. I’m currently looking for opportunities in Web Development or Cloud-related roles.
 
 I enjoy designing and building projects—anything I can imagine.
 
@@ -16,7 +16,7 @@ I believe in Discipline 🎯, Consistency ⏳, Continuous Learning 📚, and Bui
 
 My favorite tools are **VS Code**, **GitHub**, and **Vite**.
 
-Some of my favorite projects are Writeflow.ai, **[ChatAI](https://github.com/yokeshbaskaran/chatai)**, **[Tweets](https://github.com/yokeshbaskaran/tweets)** and **[Moments](https://github.com/yokeshbaskaran/moments)**.
+Some of my favorite projects are **[WriteflowAI](https://github.com/yokeshbaskaran/writeflow-ai)**, **[ChatAI](https://github.com/yokeshbaskaran/chatai)**, **[Tweets](https://github.com/yokeshbaskaran/tweets)** and **[Moments](https://github.com/yokeshbaskaran/moments)**.
 
 ### Fun Facts
 
