@@ -12,11 +12,11 @@ I believe in Discipline 🎯, Consistency ⏳, Continuous Learning 📚, and Bui
 
 **My main tech stack:** React, JavaScript, TypeScript, MERN, Tailwind CSS, AWS (foundational knowledge)
 
-**AWS Services & Concepts I Know:** EC2 · IAM · S3 · VPC · Linux · Networking · Lambda
+**AWS Cloud Services & Concepts I Know:** EC2 · IAM · S3 · VPC · Linux · Networking · Lambda
 
 My favorite tools are **VS Code**, **GitHub**, and **Vite**.
 
-Some of my favorite projects are **[WriteflowAI](https://github.com/yokeshbaskaran/writeflow-ai)**, **[ChatAI](https://github.com/yokeshbaskaran/chatai)**, **[Tweets](https://github.com/yokeshbaskaran/tweets)** and **[Moments](https://github.com/yokeshbaskaran/moments)**.
+Some of my favorite projects are **[ChatAI](https://github.com/yokeshbaskaran/chatai)**, **[Tweets](https://github.com/yokeshbaskaran/tweets)**, **[WriteflowAI](https://github.com/yokeshbaskaran/writeflow-ai)** and **[Moments](https://github.com/yokeshbaskaran/moments)**.
 
 ### Fun Facts
 
